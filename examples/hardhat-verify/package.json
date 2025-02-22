@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@tenderly/hardhat-tenderly": "^2.5.1",
+    "@tenderly/hardhat-tenderly": "^2.5.2",
     "hardhat": "^2.22.17"
   }
 }
