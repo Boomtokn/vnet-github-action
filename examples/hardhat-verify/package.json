@@ -11,6 +11,6 @@
   "description": "",
   "dependencies": {
     "@tenderly/hardhat-tenderly": "^2.5.1",
-    "hardhat": "^2.22.17"
+    "hardhat": "^2.22.18"
   }
 }
